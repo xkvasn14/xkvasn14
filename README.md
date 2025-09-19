@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi there, I'm xkvasn14 👋
 
-<!--
-**xkvasn14/xkvasn14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate coder with interests in User Interfaces, Artificial Intelligence, and Python programming. Join me on this coding journey and explore some of my projects below!
 
-Here are some ideas to get you started:
+### 🚀 Quick Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I have a total of 44 public repositories.
+- 🌱 My repository topics include "User Interfaces," "AI and Visualization," and "Programming in Python."
+- 👯 I have collaborated on projects like "ITU-user-interfaces" and "IFJ21_compiler."
+- 💬 Ask me about Python, User Interfaces, AI, or anything coding related!
+- 📫 You can reach me at xkvasn14@vutbr.cz
+
+### 🛠️ Skills and Tools
+
+- Python | C++ | HTML | Jupyter Notebook
+- User Interfaces | AI | Machine Learning | Robotics
+- Data Structures | Data Visualization
+
+### 🌟 GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xkvasn14)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xkvasn14)
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xkvasn14)](https://github.com/xkvasn14)
+
+### 📊 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xkvasn14)](https://git.io/streak-stats)
+
+### 🚀 Projects Showcase
+
+I am actively working on various projects related to Python programming, User Interfaces, and Artificial Intelligence. Check out my GitHub repositories for more!
+
+### 📧 Get in Touch
+
+For collaborations, questions, or just to say hi, feel free to email me at xkvasn14@gmail.com. Connect with me on GitHub [here](https://github.com/xkvasn14)!
+
+Let's code together and make a difference in the tech world! 🚀
+
+---
+
+[![Made with Love](https://img.shields.io/badge/Made%20with-Love-1f425f.svg)](https://GitHub.com/xkvasn14/)
