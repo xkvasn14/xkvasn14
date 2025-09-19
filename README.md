@@ -21,17 +21,13 @@ I am a passionate coder with interests in User Interfaces, Artificial Intelligen
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xkvasn14)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xkvasn14)
 
-### 📊 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xkvasn14)](https://git.io/streak-stats)
-
 ### 🚀 Projects Showcase
 
-I am actively working on various projects related to Python programming, User Interfaces, and Artificial Intelligence. Check out my GitHub repositories for more!
+I am actively working on various projects related to Python programming and Artificial Intelligence. Check out my GitHub repositories for more!
 
 ### 📧 Get in Touch
 
-For collaborations, questions, or just to say hi, feel free to email me at xkvasn14@gmail.com. Connect with me on GitHub [here](https://github.com/xkvasn14)!
+For collaborations, questions, or just to say hi, feel free to email me at xkvasn14@vutbr.cz. Connect with me on GitHub [here](https://linkedin.com/in/jaroslavkvasnicka1997)!
 
 Let's code together and make a difference in the tech world! 🚀
 
