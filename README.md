@@ -5,7 +5,7 @@ I am a passionate coder with interests in User Interfaces, Artificial Intelligen
 ### 🚀 Quick Overview
 
 - 🔭 I have a total of 44 public repositories.
-- 🌱 My repository topics include "User Interfaces," "AI and Visualization," and "Programming in Python."
+- 🌱 My repository topics include "Seminar Papers," "AI and Visualization," and "Programming in Python."
 - 👯 I have collaborated on projects like "ITU-user-interfaces" and "IFJ21_compiler."
 - 💬 Ask me about Python, User Interfaces, AI, or anything coding related!
 - 📫 You can reach me at xkvasn14@vutbr.cz
