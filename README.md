@@ -27,7 +27,7 @@ I am actively working on various projects related to Python programming and Arti
 
 ### 📧 Get in Touch
 
-For collaborations, questions, or just to say hi, feel free to email me at xkvasn14@vutbr.cz. Connect with me on GitHub [here](https://linkedin.com/in/jaroslavkvasnicka1997)!
+For collaborations, questions, or just to say hi, feel free to email me at xkvasn14@vutbr.cz. Connect with me on LinkedIn 🔗 [here](https://linkedin.com/in/jaroslavkvasnicka1997)!
 
 Let's code together and make a difference in the tech world! 🚀
 
