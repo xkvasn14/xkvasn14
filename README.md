@@ -21,10 +21,6 @@ I am a passionate coder with interests in User Interfaces, Artificial Intelligen
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xkvasn14)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xkvasn14)
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=xkvasn14)](https://github.com/xkvasn14)
-
 ### 📊 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xkvasn14)](https://git.io/streak-stats)
